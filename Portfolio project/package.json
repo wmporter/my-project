@@ -1,0 +1,38 @@
+{
+  "name": "Thainge-Simple-Folio",
+  "version": "1.0.1",
+  "private": "true",
+  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thainge/my-project"
+  },
+  "keywords": [],
+  "author": "Jacobo Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thainge/my-project/issues"
+  },
+  "homepage": "https://github.com/Thainge/my-project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "gh-pages": "^4.0.0",
+    "github-pages": "^0.1.0",
+    "parcel": "^2.0.1",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "@jamesives/github-pages-deploy-action": "^4.3.3",
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "live-server": "^1.1.0",
+    "popper.js": "^1.16.1",
+    "vanilla-tilt": "^1.7.2"
+  }
+}
